@@ -24,7 +24,7 @@ print('Cookie four is now', cookie_four.get_color())
 # How are we going to use class to define every data structure
 
 # class LinkedList:
-#     def __init__(self) -> None:
+#     def __init__(self,value):
         
 #     def append(self, value):
     
