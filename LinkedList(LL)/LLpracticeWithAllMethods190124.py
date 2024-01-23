@@ -1,3 +1,5 @@
+## Today's score: 230/124: 6/11 correct
+
 ## constructer method
 ## print list
 ## append
@@ -5,7 +7,7 @@
 ## prepend
 ## pop first
 ## get
-## set
+## set_value
 ## insert
 ## remove
 ## reverse
